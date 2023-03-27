@@ -7,6 +7,8 @@ Project Advisor: Dr. Thanapong Intharah and Dr. Sakuntala Ninkaew
 Department of Statistics, Faculty of Science, Khon Kean University
 
 ---
-Content
+# Content
+
 AR : flower by Reality capture
+
 VR : Environment by Blender3D
